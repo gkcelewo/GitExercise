@@ -1,0 +1,4 @@
+Lysozyme   Chicken  LYSC_CHICK P00698
+Lysozyme   Human  LYSC_human P61626
+Hemoglobin-alpha Human  HBA_human P69905
+Hemoglobin-beta Human  HBB_human P68871
